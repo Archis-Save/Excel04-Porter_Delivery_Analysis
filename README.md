@@ -9,3 +9,6 @@ Overall, the project provides actionable insights to enhance delivery efficiency
 The analysis of Porter Delivery’s operational data reveals that delivery performance is influenced by multiple interconnected factors such as market demand, store category efficiency, staffing levels during peak hours, order complexity, and pricing patterns. By leveraging these insights, the company can make data-driven decisions to reduce delivery delays, optimize partner schedules, and target high-value markets and store categories.
 
 Improving delivery performance not only enhances customer satisfaction but also strengthens Porter’s competitive position in the rapidly growing food delivery market. Strategic optimization—such as increasing partner availability during peak times, collaborating with underperforming stores, and targeting high-value order categories—can lead to faster deliveries, higher order values, and increased customer loyalty. Ultimately, this project empowers Porter Delivery to transform operational challenges into profitable opportunities through the power of analytics.
+
+Screenshot Of Dashboard
+[1](https://github.com/Archis-Save/Excel04-Porter_Delivery_Analysis/blob/main/04.PNG)
